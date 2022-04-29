@@ -4,6 +4,8 @@ Final Project for Data Wrangling and Exploratory Analysis with Dr. Shi
 
 This project is an analysis of the dataset from Kaggle called Pokemon with Stats found at this link: https://www.kaggle.com/datasets/abcsds/pokemon
 
+Notice: This is an .ipynb file and runs on both Jupyter and Google Collab, this was programmed on Google Collab, but there are some unique Jupyter related issues with some plots as it doesn't identify some syntax the way it does in GC. I've included screenshots of successful plots as well from GC to ensure they work. 
+
 In this project I explore and prepared a presentation of my findings and analysis. I had fun doing data analysis and exploration since the hours melted away when 
 I was so busy with working on it. 
 
