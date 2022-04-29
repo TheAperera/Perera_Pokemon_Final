@@ -17,4 +17,5 @@ I've spent time watching the recorded Pokmeon VGT Championships of 2014 and 2015
 
 
 2014 Championship: https://www.youtube.com/watch?v=M7Ki5Fo1FKQ&t=1689s
+
 2015 Championship: https://www.youtube.com/watch?v=H8m2an9jk6c
